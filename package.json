@@ -1,0 +1,9 @@
+{
+  "name": "Chestnut",
+  "description": "The world's first CMSMS.",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.10.0",
+    "mongodb": "~2.0.4"
+  }
+}
